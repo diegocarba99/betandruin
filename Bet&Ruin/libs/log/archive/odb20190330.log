@@ -1,0 +1,634 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-30 08:34:26 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 9284@DESKTOP-A7CK12V
+
+[2019-03-30 08:34:26 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-30 08:34:26 #3 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-30 08:34:26 #4 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-30 08:34:26 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-30 08:34:26 #6 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-30 08:34:26 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-30 08:34:26 #8 type] 
+Type domain.Sport is not enhanced.
+
+[2019-03-30 08:34:26 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-30 08:34:26 #10 type] 
+Type domain.PossibleBet is not enhanced.
+
+[2019-03-30 08:34:26 #11 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-30 08:49:45 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' has been recovered (tr. 196-214)
+
+[2019-03-30 08:49:45 #2 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 5244@DESKTOP-A7CK12V
+
+[2019-03-30 08:49:45 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-30 08:49:45 #4 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-30 08:49:45 #5 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-30 08:49:45 #6 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-30 08:49:45 #7 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-30 08:49:45 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-30 08:49:45 #9 type] 
+Type domain.Sport is not enhanced.
+
+[2019-03-30 08:49:45 #10 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-30 08:49:45 #11 type] 
+Type domain.PossibleBet is not enhanced.
+
+[2019-03-30 08:49:45 #12 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-30 09:00:32 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' has been recovered (tr. 215-215)
+
+[2019-03-30 09:00:33 #2 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 10288@DESKTOP-A7CK12V
+
+[2019-03-30 09:00:33 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-30 09:00:33 #4 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-30 09:00:33 #5 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-30 09:00:33 #6 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-30 09:00:33 #7 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-30 09:00:33 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-30 09:00:33 #9 type] 
+Type domain.Sport is not enhanced.
+
+[2019-03-30 09:00:33 #10 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-30 09:00:33 #11 type] 
+Type domain.PossibleBet is not enhanced.
+
+[2019-03-30 09:00:33 #12 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-30 09:04:02 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' has been recovered (tr. 216-216)
+
+[2019-03-30 09:04:03 #2 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 10552@DESKTOP-A7CK12V
+
+[2019-03-30 09:04:03 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-30 09:04:03 #4 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-30 09:04:03 #5 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-30 09:04:03 #6 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-30 09:04:03 #7 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-30 09:04:03 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-30 09:04:03 #9 type] 
+Type domain.Sport is not enhanced.
+
+[2019-03-30 09:04:03 #10 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-30 09:04:03 #11 type] 
+Type domain.PossibleBet is not enhanced.
+
+[2019-03-30 09:04:03 #12 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-30 09:07:17 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' has been recovered (tr. 217-217)
+
+[2019-03-30 09:07:17 #2 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 5580@DESKTOP-A7CK12V
+
+[2019-03-30 09:07:17 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-30 09:07:17 #4 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-30 09:07:17 #5 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-30 09:07:17 #6 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-30 09:07:17 #7 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-30 09:07:17 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-30 09:07:17 #9 type] 
+Type domain.Sport is not enhanced.
+
+[2019-03-30 09:07:17 #10 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-30 09:07:17 #11 type] 
+Type domain.PossibleBet is not enhanced.
+
+[2019-03-30 09:07:17 #12 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-30 09:08:22 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' has been recovered (tr. 218-218)
+
+[2019-03-30 09:08:22 #2 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 5664@DESKTOP-A7CK12V
+
+[2019-03-30 09:08:23 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-30 09:08:23 #4 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-30 09:08:23 #5 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-30 09:08:23 #6 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-30 09:08:23 #7 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-30 09:08:23 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-30 09:08:23 #9 type] 
+Type domain.Sport is not enhanced.
+
+[2019-03-30 09:08:23 #10 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-30 09:08:23 #11 type] 
+Type domain.PossibleBet is not enhanced.
+
+[2019-03-30 09:08:23 #12 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-30 09:09:49 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' has been recovered (tr. 219-219)
+
+[2019-03-30 09:09:49 #2 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 10532@DESKTOP-A7CK12V
+
+[2019-03-30 09:09:50 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-30 09:09:50 #4 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-30 09:09:50 #5 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-30 09:09:50 #6 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-30 09:09:50 #7 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-30 09:09:50 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-30 09:09:50 #9 type] 
+Type domain.Sport is not enhanced.
+
+[2019-03-30 09:09:50 #10 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-30 09:09:50 #11 type] 
+Type domain.PossibleBet is not enhanced.
+
+[2019-03-30 09:09:50 #12 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-30 09:11:46 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' has been recovered (tr. 220-221)
+
+[2019-03-30 09:11:46 #2 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 10264@DESKTOP-A7CK12V
+
+[2019-03-30 09:11:46 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-30 09:11:46 #4 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-30 09:11:46 #5 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-30 09:11:46 #6 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-30 09:11:46 #7 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-30 09:11:46 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-30 09:11:46 #9 type] 
+Type domain.Sport is not enhanced.
+
+[2019-03-30 09:11:46 #10 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-30 09:11:46 #11 type] 
+Type domain.PossibleBet is not enhanced.
+
+[2019-03-30 09:11:46 #12 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-30 09:24:26 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 9736@DESKTOP-A7CK12V
+
+[2019-03-30 09:24:26 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-30 09:24:26 #3 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-30 09:24:26 #4 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-30 09:24:26 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-30 09:24:26 #6 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-30 09:24:26 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-30 09:24:26 #8 type] 
+Type domain.Sport is not enhanced.
+
+[2019-03-30 09:24:26 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-30 09:24:26 #10 type] 
+Type domain.PossibleBet is not enhanced.
+
+[2019-03-30 09:24:26 #11 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-30 09:27:25 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' has been recovered (tr. 223-228)
+
+[2019-03-30 09:27:25 #2 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 316@DESKTOP-A7CK12V
+
+[2019-03-30 09:27:25 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-30 09:27:25 #4 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-30 09:27:25 #5 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-30 09:27:25 #6 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-30 09:27:25 #7 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-30 09:27:25 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-30 09:27:25 #9 type] 
+Type domain.Sport is not enhanced.
+
+[2019-03-30 09:27:25 #10 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-30 09:27:25 #11 type] 
+Type domain.PossibleBet is not enhanced.
+
+[2019-03-30 09:27:25 #12 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-30 09:29:02 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' has been recovered (tr. 229-229)
+
+[2019-03-30 09:29:02 #2 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 8944@DESKTOP-A7CK12V
+
+[2019-03-30 09:29:02 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-30 09:29:02 #4 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-30 09:29:02 #5 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-30 09:29:02 #6 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-30 09:29:02 #7 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-30 09:29:02 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-30 09:29:02 #9 type] 
+Type domain.Sport is not enhanced.
+
+[2019-03-30 09:29:02 #10 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-30 09:29:02 #11 type] 
+Type domain.PossibleBet is not enhanced.
+
+[2019-03-30 09:29:02 #12 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-30 09:31:45 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' has been recovered (tr. 230-231)
+
+[2019-03-30 09:31:45 #2 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 11192@DESKTOP-A7CK12V
+
+[2019-03-30 09:31:46 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-30 09:31:46 #4 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-30 09:31:46 #5 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-30 09:31:46 #6 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-30 09:31:46 #7 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-30 09:31:46 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-30 09:31:46 #9 type] 
+Type domain.Sport is not enhanced.
+
+[2019-03-30 09:31:46 #10 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-30 09:31:46 #11 type] 
+Type domain.PossibleBet is not enhanced.
+
+[2019-03-30 09:31:46 #12 type] 
+Type domain.Movement is not enhanced.
+
+[2019-03-30 09:32:14 #13 type.registry] 
+New type java.util.LinkedList<domain.Bet>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-30 13:34:08 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' has been recovered (tr. 232-234)
+
+[2019-03-30 13:34:08 #2 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 11508@DESKTOP-A7CK12V
+
+[2019-03-30 13:34:08 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-30 13:34:08 #4 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-30 13:34:08 #5 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-30 13:34:08 #6 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-30 13:34:08 #7 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-30 13:34:08 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-30 13:34:08 #9 type] 
+Type domain.Sport is not enhanced.
+
+[2019-03-30 13:34:08 #10 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-30 13:34:08 #11 type] 
+Type domain.PossibleBet is not enhanced.
+
+[2019-03-30 13:34:08 #12 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-30 13:35:59 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' has been recovered (tr. 235-249)
+
+[2019-03-30 13:35:59 #2 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 5424@DESKTOP-A7CK12V
+
+[2019-03-30 13:35:59 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-30 13:35:59 #4 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-30 13:35:59 #5 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-30 13:35:59 #6 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-30 13:35:59 #7 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-30 13:35:59 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-30 13:35:59 #9 type] 
+Type domain.Sport is not enhanced.
+
+[2019-03-30 13:35:59 #10 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-30 13:35:59 #11 type] 
+Type domain.PossibleBet is not enhanced.
+
+[2019-03-30 13:35:59 #12 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-30 13:37:30 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 9788@DESKTOP-A7CK12V
+
+[2019-03-30 13:37:30 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-30 13:37:30 #3 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-30 13:37:30 #4 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-30 13:37:30 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-30 13:37:30 #6 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-30 13:37:30 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-30 13:37:30 #8 type] 
+Type domain.Sport is not enhanced.
+
+[2019-03-30 13:37:30 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-30 13:37:30 #10 type] 
+Type domain.PossibleBet is not enhanced.
+
+[2019-03-30 13:37:30 #11 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-30 13:39:14 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 12808@DESKTOP-A7CK12V
+
+[2019-03-30 13:39:14 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-30 13:39:15 #3 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-30 13:39:15 #4 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-30 13:39:15 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-30 13:39:15 #6 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-30 13:39:15 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-30 13:39:15 #8 type] 
+Type domain.Sport is not enhanced.
+
+[2019-03-30 13:39:15 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-30 13:39:15 #10 type] 
+Type domain.PossibleBet is not enhanced.
+
+[2019-03-30 13:39:15 #11 type] 
+Type domain.Movement is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-30 13:51:50 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 4420@DESKTOP-A7CK12V
+
+[2019-03-30 13:51:50 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-30 13:51:50 #3 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-30 13:51:50 #4 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-30 13:51:50 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-30 13:51:50 #6 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-30 13:51:50 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-30 13:51:50 #8 type] 
+Type domain.Sport is not enhanced.
+
+[2019-03-30 13:51:50 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-30 13:51:50 #10 type] 
+Type domain.PossibleBet is not enhanced.
+
+[2019-03-30 13:51:50 #11 type] 
+Type domain.Movement is not enhanced.
+

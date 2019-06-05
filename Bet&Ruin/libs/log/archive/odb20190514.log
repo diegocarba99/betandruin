@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-05-14 23:40:17 #1 store] 
+Database 'C:\Users\kalvo\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' has been recovered (tr. 538-538)
+
+[2019-05-14 23:40:17 #2 store] 
+Database 'C:\Users\kalvo\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 1672@DESKTOP-OLFA7OK
+
+[2019-05-14 23:40:17 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-05-14 23:40:17 #4 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-05-14 23:40:17 #5 type] 
+Type domain.Category is not enhanced.
+
+[2019-05-14 23:40:17 #6 type] 
+Type domain.Event is not enhanced.
+
+[2019-05-14 23:40:17 #7 type] 
+Type domain.Question is not enhanced.
+
+[2019-05-14 23:40:17 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-05-14 23:40:17 #9 type] 
+Type domain.Sport is not enhanced.
+
+[2019-05-14 23:40:17 #10 type] 
+Type domain.Bet is not enhanced.
+
+[2019-05-14 23:40:17 #11 type] 
+Type domain.PossibleBet is not enhanced.
+
+[2019-05-14 23:40:17 #12 type] 
+Type domain.Movement is not enhanced.
+

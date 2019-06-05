@@ -1,0 +1,223 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-22 22:18:51 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 7700@DESKTOP-A7CK12V
+
+[2019-03-22 22:18:51 #2 type.registry] 
+New type domain.User
+
+[2019-03-22 22:18:51 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-22 22:18:51 #4 type.registry] 
+New type domain.VWallet
+
+[2019-03-22 22:18:51 #5 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-22 22:18:51 #6 type.registry] 
+New type businessLogic.BLFacade
+
+[2019-03-22 22:18:51 #7 type.registry] 
+New type businessLogic.BLFacadeImplementation
+
+[2019-03-22 22:19:27 #8 type.registry] 
+New type domain.Category
+
+[2019-03-22 22:19:27 #9 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-22 22:19:27 #10 type.registry] 
+New type domain.Event
+
+[2019-03-22 22:19:27 #11 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-22 22:19:27 #12 type.registry] 
+New type domain.Question
+
+[2019-03-22 22:19:27 #13 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-22 22:19:27 #14 type.registry] 
+New type domain.Result
+
+[2019-03-22 22:19:27 #15 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-22 22:19:27 #16 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-22 22:19:27 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2019-03-22 22:19:27 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2019-03-22 22:19:27 #19 type.registry] 
+New type java.util.ArrayList<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-22 22:22:07 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' has been recovered (tr. 1-653)
+
+[2019-03-22 22:22:07 #2 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 6352@DESKTOP-A7CK12V
+
+[2019-03-22 22:22:07 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-22 22:22:07 #4 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-22 22:22:07 #5 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-22 22:22:07 #6 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-22 22:22:07 #7 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-22 22:22:07 #8 type] 
+Type domain.Result is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-22 22:26:35 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 4176@DESKTOP-A7CK12V
+
+[2019-03-22 22:26:35 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-22 22:26:35 #3 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-22 22:26:35 #4 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-22 22:26:35 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-22 22:26:35 #6 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-22 22:26:35 #7 type] 
+Type domain.Result is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-22 22:28:14 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 8640@DESKTOP-A7CK12V
+
+[2019-03-22 22:28:14 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-22 22:28:14 #3 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-22 22:28:14 #4 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-22 22:28:14 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-22 22:28:14 #6 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-22 22:28:14 #7 type] 
+Type domain.Result is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-22 22:30:30 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 11148@DESKTOP-A7CK12V
+
+[2019-03-22 22:30:30 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-22 22:30:30 #3 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-22 22:30:30 #4 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-22 22:30:30 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-22 22:30:30 #6 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-22 22:30:30 #7 type] 
+Type domain.Result is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-22 22:37:37 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 2108@DESKTOP-A7CK12V
+
+[2019-03-22 22:37:37 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-22 22:37:37 #3 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-22 22:37:37 #4 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-22 22:37:37 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-22 22:37:37 #6 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-22 22:37:37 #7 type] 
+Type domain.Result is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-22 22:39:09 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 8088@DESKTOP-A7CK12V
+
+[2019-03-22 22:39:09 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-22 22:39:09 #3 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-22 22:39:09 #4 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-22 22:39:09 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-22 22:39:09 #6 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-22 22:39:09 #7 type] 
+Type domain.Result is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-22 22:40:09 #1 store] 
+Database 'C:\Users\diego\Desktop\BugStreetBoys\git\BetAndRuin_BugStreetBoys\resources\db\bets.odb' is opened by 10984@DESKTOP-A7CK12V
+
+[2019-03-22 22:40:09 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-22 22:40:09 #3 type] 
+Type domain.VWallet is not enhanced.
+
+[2019-03-22 22:40:09 #4 type] 
+Type domain.Category is not enhanced.
+
+[2019-03-22 22:40:09 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-22 22:40:09 #6 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-22 22:40:09 #7 type] 
+Type domain.Result is not enhanced.
+
